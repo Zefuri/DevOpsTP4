@@ -1,0 +1,4 @@
+On a téléchargé le plugin EclEmma sur le marketplace de Eclipse et on l’a exécuté sur notre code. 
+On a eu 83,5 % de code couvert du fichier MyUnsortedList car on ne test pas le méthode toString et equals. 
+On peut voir sur l’IDE que EclEmma fais des marqueurs verts si toutes le branches d’une partie de code sont couverts, 
+marqueurs jaunes si il n’y a pas toutes les branches qui etaient executees et marqueurs rouges si aucune branche n’a execute cette partie du code.
